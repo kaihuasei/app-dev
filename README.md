@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# My Favorite Movies
+- Spider-Man
+- Hunger Games
+- Inception
